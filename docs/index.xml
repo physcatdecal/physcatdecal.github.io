@@ -2,27 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PhysCat DeCal</title>
-    <link>https://physcatdecal.github.io/</link>
+    <link>https://physcat-decal.com/</link>
     <description>Recent content on PhysCat DeCal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).</copyright><atom:link href="https://physcatdecal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).</copyright>
+    <lastBuildDate>Sat, 12 Dec 2020 22:04:32 -0800</lastBuildDate><atom:link href="https://physcat-decal.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://physcatdecal.github.io/about/</link>
+      <link>https://physcat-decal.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://physcatdecal.github.io/about/</guid>
-      <description>PhysCat (Physics High-Performance Scientific Computing and Technology) is a 2-Unit Decal now open for enrolement as PHYS198 003, CN:33406! If you enjoyed learning about computing in Physics 77 and want to use it in real research, this class is for you!
+      <guid>https://physcat-decal.com/about/</guid>
+      <description>PhysCat (Physics High-Performance Scientific Computing and Technology) is a 2-Unit Decal now open for enrolement as PHYS198 003, CN:33406! If you&amp;rsquo;re interested in practical applications of HPC and Scientific computing for research or fun, then this class is for you!
 We aim to give you the working knowledge of often glossed over topics like computer architecture, hardware acceleration, probilistic programming, and practical software development techniques you will need to become a better researcher!</description>
     </item>
     
     <item>
       <title>Schedule</title>
-      <link>https://physcatdecal.github.io/schedule/</link>
+      <link>https://physcat-decal.com/schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://physcatdecal.github.io/schedule/</guid>
+      <guid>https://physcat-decal.com/schedule/</guid>
       <description>Homeworks will be posted sometime around the first lecture, and their links will be availabile here, excluding HW 1 and 2, you will have 2 weeks to complete each assignment. Some material from a HW may be covered in the second week of lectures for that homework.
   Week Topic Assignment Primary Facilitator     01/24 Overview and Environment Setup &amp;amp; HW 1 HW 1 Aditya   01/31 Python Review, Future Concept Demo HW 2 Aled   02/07 Computer Architecture HW 3 Aled   02/14 SIMD and Vectorized Computation &amp;ndash; Aled   02/21 Threading HW 4 Aled   02/28 GPUs and High-Performance Computing &amp;ndash; Aled   03/07 The Julia Programming Language, Code Efficiency HW 5 Aditya   03/14 Git, Github, Package Management &amp;ndash; Aditya   03/21 Spring Break     03/28 Asymptotic Analysis, Parallel Computing HW 6 Aditya   04/04 Numerical Methods, Probabilistic Programming &amp;ndash; Aditya   04/11 Application to Computational Physics Project Proposals Aditya + Aled   04/18 Best Practices and Documentation Project Aditya   04/25 Advanced Topics: FPGAs and DSP &amp;ndash; Aled   05/02 RRR Week: Project Presentations &amp;ndash; Aditya + Aled    </description>
     </item>

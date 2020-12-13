@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on PhysCat DeCal</title>
-    <link>https://physcatdecal.github.io/tags/</link>
+    <link>https://physcat-decal.com/tags/</link>
     <description>Recent content in Tags on PhysCat DeCal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).</copyright><atom:link href="https://physcatdecal.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).</copyright><atom:link href="https://physcat-decal.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -3,15 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://physcatdecal.com/categories/</loc>
+    <loc>http://physcatdecal.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>http://physcatdecal.com/</loc>
+    <loc>http://physcatdecal.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://physcatdecal.com/tags/</loc>
+    <loc>http://physcatdecal.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>http://physcatdecal.github.io/schedule/</loc>
+  </url>
+  
+  <url>
+    <loc>http://physcatdecal.github.io/tags/</loc>
   </url>
   
 </urlset>

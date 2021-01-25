@@ -24,7 +24,7 @@ Homework links will be posted here before the first lecture of the week they are
 {{<table "table table-striped table-bordered">}}
 | Week  	| Topic                                           	| Assignment        	| Primary Facilitator 	|
 |-------	|-------------------------------------------------	|-------------------	|---------------------	|
-| 01/24 	| Overview and Environment Setup & HW 1           	| HW 1              	| Aditya              	|
+| 01/24 	| Overview and Environment Setup & HW 1           	| [HW 1]({{< ref "hw1.md" >}})              	| Aditya              	|
 | 01/31 	| Python Review, Future Concept Demo              	| HW 2              	| Aled                	|
 | 02/07 	| Computer Architecture                           	| HW 3              	| Aled                	|
 | 02/14 	| SIMD and Vectorized Computation                 	| --                	| Aled                	|

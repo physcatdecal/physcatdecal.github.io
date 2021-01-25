@@ -1,6 +1,5 @@
 ---
 title: "Homework 1"
-date: 2021-01-15T18:01:20-08:00
 draft: false
 ---
 

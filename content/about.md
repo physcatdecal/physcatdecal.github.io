@@ -4,7 +4,7 @@ sharingicons = false
 menu = "navbar"
 +++
 
-PhysCat (Physics High-Performance Scientific Computing and Technology) is a 2-Unit Decal now open for enrolement as `PHYS198 003, CN:33406`! If you're interested in practical applications of HPC and Scientific computing for research or fun, then this class is for you!
+PhysCat (Physics High-Performance Scientific Computing and Technology) is a 2-Unit Decal now open for enrollment as `PHYS198 003, CN:33406`! If you're interested in practical applications of HPC and Scientific computing for research or fun, then this class is for you!
 
 We aim to give you the working knowledge of often glossed over topics like computer architecture, hardware acceleration, probilistic programming, and practical software development techniques you will need to become a better researcher!
 

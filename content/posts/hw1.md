@@ -58,14 +58,15 @@ jupyter-notebook
 
 to enter the environment and launch a notebook session in your browser. If that all works then procede to the Checkpoint
 
-### Checkpoint
+### Part 1: Checkpoint
 
-Now that you've successfully completed installation download our test notebook from [here](http://spooky.ld-cd.net/physcat/hw1-p1.ipynb).
+Now that you've successfully completed installation download our test notebook from [here](/homeworks/physcat_sp21_hw1_p1.ipynb).
 
-### Python Review
+### Part 2: Python Review
 
-Download and run through the Python Review notebook here.
+Download and run through the Python Review notebook [here](/homeworks/physcat_sp21_hw1_p2.ipynb).
 
-### NumPy and Monte Carlo Simulation
+### Part 3: NumPy and Monte Carlo Simulation
 
-Download and solve the NumPy and Monte Carlo Simulation notebook here.
+Download and solve the NumPy and Monte Carlo Simulation notebook [here](/homeworks/physcat_sp21_hw1_p3.ipynb).
+

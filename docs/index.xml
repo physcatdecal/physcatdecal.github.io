@@ -9,15 +9,6 @@
     <copyright>Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).</copyright>
     <lastBuildDate>Sat, 12 Dec 2020 22:04:32 -0800</lastBuildDate><atom:link href="https://physcat-decal.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>HW1 Environment Setup</title>
-      <link>https://physcat-decal.com/posts/hw1/</link>
-      <pubDate>Fri, 15 Jan 2021 18:01:20 -0800</pubDate>
-      
-      <guid>https://physcat-decal.com/posts/hw1/</guid>
-      <description>Setup Welcome to PhysCat, like many courses the first thing you&amp;rsquo;re going to have to do is setup a programming environment that has all the required libraries where you will conduct your work. For at least the first portion of this course we will be using anaconda to handle package management. There are three ways to install it that we know to be compatible with this course, however if you are new to computers we strongly recommend the first.</description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>https://physcat-decal.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

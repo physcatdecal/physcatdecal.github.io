@@ -54,4 +54,4 @@ to enter the environment and launch a notebook session in your browser. If that 
 
 ### Checkpoint
 
-Now that you've successfully completed 
+Now that you've successfully completed installation download our test notebook from [here](http://spooky.ld-cd.net/physcat/hw1-p1.ipynb)

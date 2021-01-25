@@ -56,7 +56,7 @@ conda activate physcat
 jupyter-notebook
 ```
 
-to enter the environment and launch a notebook session in your browser. If that all works then procede to the Checkpoint
+to enter the environment and launch a notebook session in your browser. If that all works, then proceed to the Checkpoint.
 
 ### Part 1: Checkpoint
 

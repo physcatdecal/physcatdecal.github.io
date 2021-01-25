@@ -1,7 +1,7 @@
 ---
 title: "HW1 Environment Setup"
 date: 2021-01-15T18:01:20-08:00
-draft: true
+draft: false
 ---
 
 

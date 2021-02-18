@@ -24,7 +24,7 @@ Homework links will be posted here before the first lecture of the week they are
 |-------	|-------------------------------------------------	|-------------------	|---------------------	|
 | 01/24 	| Overview and Environment Setup & HW 1           	| [HW 1](/posts/hw1/index.html)              	| Aditya              	|
 | 01/31 	| Python Review, Future Concept Demo              	| --                 	| Aled                	|
-| 02/07 	| Computer Architecture                           	| HW 2              	| Aled                	|
+| 02/07 	| Computer Architecture                           	| [HW 2](homeworks/physcat_sp21_hw2.ipynb) (Due 02/25)              	| Aled                	|
 | 02/14 	| SIMD and Vectorized Computation                 	| --                	| Aled                	|
 | 02/21 	| Threading                                       	| HW 3              	| Aled                	|
 | 02/28 	| GPUs and High-Performance Computing             	| --                	| Aled                	|

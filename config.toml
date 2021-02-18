@@ -11,9 +11,14 @@ author = "Aled Cuda and Aditya Sengupta"
 description = "Class Homepage "
 custom_css = ["css/style.css"]
 
-[params.sidebar]
-about = "[PhysCat](/about) is a 2 unit Scientific and High Performance Computing Decal being offered this spring..."
-
 [[menu.sidebar]]
 name = "Syllabus"
 url = "https://aditya-sengupta.github.io/PhysCat_DeCal_Syllabus.pdf"
+
+[[menu.sidebar]]
+name = "Lecture Recordings"
+url = "https://drive.google.com/drive/folders/1lu0daU6Zw9L30PZIMMvqvOSLe6ZnOmN9?usp=sharing"
+
+[[menu.sidebar]]
+name = "Lecture and OH Zoom"
+url = "https://berkeley.zoom.us/j/94139582667?pwd=anM0aXlpN1l4VzBlNWhoVFQwTUJ5dz09"

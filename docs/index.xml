@@ -38,15 +38,5 @@ Setup Welcome to PhysCat! Like many courses, the first thing you&amp;rsquo;re go
       <description>This homework is due on 25 February 2021 at 11:59PM via Gradescope. Please complete and submit the file physcat_sp21_hw2.ipynb.</description>
     </item>
     
-    <item>
-      <title>Schedule</title>
-      <link>https://physcat-decal.com/schedule/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://physcat-decal.com/schedule/</guid>
-      <description>Homeworks will be posted sometime around the first lecture, and their links will be available here. You will have 2 weeks to complete each assignment. Some material from a HW may be covered in the second week of lectures for that homework.
-  Week Topic Assignment Primary Facilitator     01/25 Overview and Environment Setup &amp;amp; HW 1 HW 1 Aditya   02/01 Python Review, Future Concept Demo &amp;ndash; Aled   02/08 Computer Architecture HW 2 Aled   02/15 SIMD and Vectorized Computation &amp;ndash; Aled   02/22 Threading HW 3 Aled   02/29 GPUs and High-Performance Computing &amp;ndash; Aled   03/08 The Julia Programming Language, Code Efficiency HW 4 Aditya   03/15 Git, Github, Package Management &amp;ndash; Aditya   03/22 Spring Break     03/29 Asymptotic Analysis, Parallel Computing HW 5 Aditya   04/05 Numerical Methods, Probabilistic Programming &amp;ndash; Aditya   04/12 Application to Computational Physics Project Proposals Aditya + Aled   04/19 Best Practices and Documentation Project Aditya   04/26 Advanced Topics: FPGAs and DSP &amp;ndash; Aled   05/03 RRR Week: Project Presentations &amp;ndash; Aditya + Aled    </description>
-    </item>
-    
   </channel>
 </rss>

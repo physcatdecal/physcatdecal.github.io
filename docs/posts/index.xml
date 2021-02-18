@@ -18,5 +18,14 @@
 Setup Welcome to PhysCat! Like many courses, the first thing you&amp;rsquo;re going to have to do is set up a programming environment that has all the libraries you&amp;rsquo;ll need. For at least the first portion of this course we will be using anaconda to handle package management.</description>
     </item>
     
+    <item>
+      <title>Homework 2</title>
+      <link>https://physcat-decal.com/posts/hw2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://physcat-decal.com/posts/hw2/</guid>
+      <description>This homework is due on 25 February 2021 at 11:59PM via Gradescope. Please submit the file physcat_sp21_hw2.ipynb</description>
+    </item>
+    
   </channel>
 </rss>

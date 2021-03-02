@@ -27,5 +27,16 @@ Setup Welcome to PhysCat! Like many courses, the first thing you&amp;rsquo;re go
       <description>This homework is due on 25 February 2021 at 11:59PM via Gradescope. Please complete and submit the file physcat_sp21_hw2.ipynb.</description>
     </item>
     
+    <item>
+      <title>Homework 3</title>
+      <link>https://physcat-decal.com/posts/hw3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://physcat-decal.com/posts/hw3/</guid>
+      <description>This homework is due on 15 March 2021 at 11:59PM via Gradescope. Please submit a .zip file containing
+ physcat_sp21_hw3_p1.ipynb physcat_sp21_hw3_p2.ipynb  which you can download below.
+Server Access To complete this homework, you&amp;rsquo;ll need to run both notebooks on the course Jupyter server to make use of our GPU. Directions for accessing the server will be distributed on Discord. Since we have limited compute resources, please don&amp;rsquo;t distribute access credentials or use significantly more resources than the notebooks specify.</description>
+    </item>
+    
   </channel>
 </rss>

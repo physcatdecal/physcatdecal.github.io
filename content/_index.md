@@ -26,7 +26,7 @@ Homework links will be posted here before the first lecture of the week they are
 | 02/01 	| Python Review, Future Concept Demo              	| --                 	| Aled                	|
 | 02/08 	| Computer Architecture                           	| [HW 2](/posts/hw2/index.html) (Due 02/25)              	| Aled                	|
 | 02/17 	| SIMD and Vectorized Computation                 	| --                	| Aled                	|
-| 02/22 	| Threading                                       	| HW 3              	| Aled                	|
+| 02/22 	| Threading                                       	| [HW 3]((/posts/hw3/index.html) (Due 03/15)             	| Aled                	|
 | 03/01 	| GPUs and High-Performance Computing             	| --                	| Aled                	|
 | 03/08 	| The Julia Programming Language, Code Efficiency 	| HW 4              	| Aditya              	|
 | 03/15 	| Git, Github, Package Management                 	| --                	| Aditya              	|

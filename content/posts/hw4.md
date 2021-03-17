@@ -13,7 +13,7 @@ For this homework, we'll need to install Julia and Git, and make a Github accoun
 
 Download the latest version of Julia [here](https://julialang.org/downloads/). This should be v1.5.4, but any v1.x should work fine. Once it's installed, you should be able to run `julia` from your command line, which will open an interface that looks something like this:
 
-![](/homeworks/julia_test.png)
+![](julia_test.png)
 
 Next, download [Git](https://git-scm.com/downloads) and make sure you can use it via the command line. Windows users may have to use Git Bash as their terminal, which should download along with the Windows installation of Git.
 
@@ -85,7 +85,7 @@ To run your code, do the following:
 
 All this sounds like a lot of steps, but after the first time you do it, it's not much - it should look like this:
 
-![](/homeworks/hw4_julia_setup.png)
+![](hw4_julia_setup.png)
 
 You can now run all the code in the `NBody` package - try `names(NBody)` to see everything you have now!
 

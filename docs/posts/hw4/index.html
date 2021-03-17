@@ -111,7 +111,7 @@ For this homework, we&rsquo;ll need to install Julia and Git, and make a Github 
 <p>Time budget: 1.5 hours.</p>
 <p>For this homework, we&rsquo;ll need to install Julia and Git, and make a Github account. Note that we plan to discuss how Git and Github work in more detail in a later lecture; for now, we&rsquo;ll list the commands you should use. If you have questions, you can come to OH, or refer to the <a href="https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet">Git Cheat Sheet</a>.</p>
 <p>Download the latest version of Julia <a href="https://julialang.org/downloads/">here</a>. This should be v1.5.4, but any v1.x should work fine. Once it&rsquo;s installed, you should be able to run <code>julia</code> from your command line, which will open an interface that looks something like this:</p>
-<p><img src="julia_test.png" alt=""></p>
+<p><img src="/img/julia_test.png" alt=""></p>
 <p>Next, download <a href="https://git-scm.com/downloads">Git</a> and make sure you can use it via the command line. Windows users may have to use Git Bash as their terminal, which should download along with the Windows installation of Git.</p>
 <p>Finally, go to <a href="https://github.com/">GitHub</a> and make an account if you don&rsquo;t already have one.</p>
 <p>You&rsquo;re now ready to get the code for this homework! Move into a directory you want to use for the homework, and run the following line in your terminal:</p>
@@ -157,7 +157,7 @@ git push origin main
 </ol>
 <p>(Note that it&rsquo;s possible to automate using Revise as soon as you sart Julia, which you do by making a file at <code>~/.julia/config/startup.jl</code> which has only the line <code>using Revise</code> in it. I have this, so you may want to consider it too!)</p>
 <p>All this sounds like a lot of steps, but after the first time you do it, it&rsquo;s not much - it should look like this:</p>
-<p><img src="hw4_julia_setup.png" alt=""></p>
+<p><img src="/img/hw4_julia_setup.png" alt=""></p>
 <p>You can now run all the code in the <code>NBody</code> package - try <code>names(NBody)</code> to see everything you have now!</p>
 <p>To run tests, use the command <code>include(&quot;test/test_setup.jl&quot;)</code> or the equivalent for <code>test_solve.jl</code>. <code>runtests.jl</code> runs both files together. <code>include</code> does not automatically revise its source, so if you edit the tests (which you shouldn&rsquo;t have to for this assignment) you&rsquo;ll need to run <code>include</code> again.</p>
 <h3 id="code-tasks">Code Tasks</h3>

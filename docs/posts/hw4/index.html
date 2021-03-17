@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+<meta property="og:title" content="Homework 4" />
+<meta property="og:description" content="This homework is due on 6 April 2021. Please create a GitHub repository for this homework (as detailed below) and submit to Gradescope via Github.
+Part 1: Setup Time budget: 1.5 hours.
+For this homework, we&rsquo;ll need to install Julia and Git, and make a Github account. Note that we plan to discuss how Git and Github work in more detail in a later lecture; for now, we&rsquo;ll list the commands you should use." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://physcat-decal.com/posts/hw4/" />
+
+
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Homework 4"/>
+<meta name="twitter:description" content="This homework is due on 6 April 2021. Please create a GitHub repository for this homework (as detailed below) and submit to Gradescope via Github.
+Part 1: Setup Time budget: 1.5 hours.
+For this homework, we&rsquo;ll need to install Julia and Git, and make a Github account. Note that we plan to discuss how Git and Github work in more detail in a later lecture; for now, we&rsquo;ll list the commands you should use."/>
+<meta name="generator" content="Hugo 0.80.0" />
+
+
+    
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Homework 4",
+  "url": "https://physcat-decal.com/posts/hw4/",
+  "wordCount": "1071",
+  "datePublished": "0001-01-01T00:00:00+00:00",
+  "author": {
+    "@type": "Person",
+    "name": "Aled Cuda and Aditya Sengupta"
+  }
+}
+</script>
+
+
+
+    <link rel="canonical" href="https://physcat-decal.com/posts/hw4/">
+
+    <title>Homework 4 | PhysCat DeCal</title>
+
+    
+    <!-- combined, minified CSS -->
+    
+    <link href="https://physcat-decal.com/css/style.16633182cd803b52b9bf9e29ea1ef4b2e3d460deee0ded49466d7e16e449c158.css" rel="stylesheet" integrity="sha256-FmMxgs2AO1K5v54p6h70suPUYN7uDe1JRm1&#43;FuRJwVg=" crossorigin="anonymous">
+    
+
+    <link rel="stylesheet" href="https://physcat-decal.com/css/style.css">
+
+    <!-- minified Font Awesome for SVG icons -->
+    
+    <script defer src="https://physcat-decal.com/js/fontawesome.min.4ed405d7c7002b970d34cbe6026ff44a556b0808cb98a9db4008752110ed964b.js" integrity="sha256-TtQF18cAK5cNNMvmAm/0SlVrCAjLmKnbQAh1IRDtlks=" crossorigin="anonymous"></script>
+
+    <!-- RSS 2.0 feed -->
+    
+
+    
+
+  </head>
+
+  <body>
+
+    
+    <div class="blog-masthead">
+      <div class="container">
+        <nav class="nav blog-nav">
+          <a class="nav-link " href="https://physcat-decal.com/">Home</a>
+          
+          <a class="nav-link" href="/about/" title="About">About</a>
+          
+        </nav>
+      </div>
+    </div>
+    
+
+    
+    
+    <header class="blog-header">
+      <div class="container">
+        <h1 class="blog-title" dir="auto"><a href="https://physcat-decal.com/" rel="home">PhysCat DeCal</a></h1>
+        <p class="lead blog-description" dir="auto">Class Homepage</p>
+      </div>
+    </header>
+    
+    
+
+    
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-8 blog-main">
+
+          
+
+
+<article class="blog-post">
+  <header>
+    <h2 class="blog-post-title" dir="auto"><a href="https://physcat-decal.com/posts/hw4/">Homework 4</a></h2>
+    <p class="blog-post-meta">
+
+</p>
+  </header>
+  <p>This homework is due on 6 April 2021. Please create a GitHub repository for this homework (as detailed below) and submit to Gradescope via Github.</p>
+<h2 id="part-1-setup">Part 1: Setup</h2>
+<p>Time budget: 1.5 hours.</p>
+<p>For this homework, we&rsquo;ll need to install Julia and Git, and make a Github account. Note that we plan to discuss how Git and Github work in more detail in a later lecture; for now, we&rsquo;ll list the commands you should use. If you have questions, you can come to OH, or refer to the <a href="https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet">Git Cheat Sheet</a>.</p>
+<p>Download the latest version of Julia <a href="https://julialang.org/downloads/">here</a>. This should be v1.5.4, but any v1.x should work fine. Once it&rsquo;s installed, you should be able to run <code>julia</code> from your command line, which will open an interface that looks something like this:</p>
+<p><img src="/homeworks/julia_test.png" alt=""></p>
+<p>Next, download <a href="https://git-scm.com/downloads">Git</a> and make sure you can use it via the command line. Windows users may have to use Git Bash as their terminal, which should download along with the Windows installation of Git.</p>
+<p>Finally, go to <a href="https://github.com/">GitHub</a> and make an account if you don&rsquo;t already have one.</p>
+<p>You&rsquo;re now ready to get the code for this homework! Move into a directory you want to use for the homework, and run the following line in your terminal:</p>
+<pre><code>git clone https://github.com/physcatdecal/physcat-hw4-nbody
+</code></pre><p>You should now have a folder called <code>physcat-hw4-nbody</code> containing the starter code. You can open this up in your favorite text editor</p>
+<p>To keep track of your work, go to GitHub and make a new <em>private</em> repository, also called <code>physcat-hw4-nbody</code>. Follow its instructions to &ldquo;push an existing repository from the command line&rdquo;:</p>
+<pre><code>git remote add origin https://github.com/&lt;your-username-here&gt;/physcat-hw4-nbody.git
+git branch -M main
+git push -u origin main
+</code></pre><p>If you go to <code>github.com/&lt;your-username-here&gt;/physcat-hw4-nbody</code>, you should now see your version of the same repository. As you work, be sure to periodically &ldquo;commit&rdquo; (permanently save) and &ldquo;push&rdquo; (send to Github) your code to this repository, by running</p>
+<pre><code>git add * 
+git commit -m &quot;Description of changes goes here.&quot;
+git push origin main
+</code></pre><p>If you&rsquo;d like to only update some files, put those files' names instead of the <code>*</code> in <code>git add *</code>. Also, try and make the messages in <code>git commit</code> as helpful as possible!</p>
+<h2 id="part-2-n-body-integration-and-asymptotics">Part 2: N-Body Integration and Asymptotics</h2>
+<p>Time budget: 4.5 hours.</p>
+<p>This homework is a slight jump in two ways: we&rsquo;re using Julia, and we&rsquo;re no longer working in <code>.ipynb</code>s.</p>
+<h3 id="julia">Julia</h3>
+<p>Julia syntax is a lot like Python, but there&rsquo;s some important changes:</p>
+<ul>
+<li>Julia needs all functions, loops, and conditionals to end with the <code>end</code> keyword, and indentation doesn&rsquo;t matter.</li>
+<li>Instead of a Python <code>range(start, stop, step)</code>, Julia has the <code>start:step:stop</code> StepRange object. You can create an array out of a range using the <code>collect</code> function.</li>
+<li>To operate on a whole array at once, Julia has the dot-vectorize operator, e.g. <code>sqrt.([1, 4, 9])</code> returns <code>[1.0, 2.0, 3.0]</code>. This also applies to addition, multiplication, etc., and can be used on range objects too: <code>(1:3) .+ 6</code> returns <code>7:9</code>.</li>
+<li>The carat (<code>^</code>) is exponentiation, and <code>**</code> isn&rsquo;t anything. (I forget about this a lot!)</li>
+</ul>
+<p>On the other hand, here&rsquo;s some things that still work:</p>
+<ul>
+<li><code>enumerate</code></li>
+<li>List comprehensions</li>
+<li><code>return</code></li>
+</ul>
+<p>It&rsquo;s very possible that I&rsquo;ve forgotten something because I&rsquo;m used to it already, though, so feel free to reach out for help!</p>
+<h3 id="source-files-and-running-your-code">Source Files and Running Your Code</h3>
+<p>The format of working directly on source files may be strange at first. However, this is how most real science/coding projects will work, and also how we&rsquo;ll expect most projects to be done - hopefully this homework will serve as a good reference for how to structure those!</p>
+<p>To run your code, do the following:</p>
+<ol>
+<li>In your terminal, <code>cd</code> into the <code>NBody</code> directory.</li>
+<li>Open Julia.</li>
+<li>Type the <code>]</code> key, and you should get a prompt saying something like <code>(@v1.5) pkg&gt;</code>. Type <code>activate .</code> (with the dot).</li>
+<li>You should now see the prompt <code>(NBody) pkg&gt;</code>. The first time you do this, type <code>instantiate</code> and wait - this may take a while as it fetches all the packages we need.</li>
+<li>Backspace out to the regular Julia REPL and type <code>using Revise</code>. This makes it so that as you change the codebase, you won&rsquo;t have to keep reimporting NBody.</li>
+<li>Now, type <code>using NBody</code>.</li>
+</ol>
+<p>(Note that it&rsquo;s possible to automate using Revise as soon as you sart Julia, which you do by making a file at <code>~/.julia/config/startup.jl</code> which has only the line <code>using Revise</code> in it. I have this, so you may want to consider it too!)</p>
+<p>All this sounds like a lot of steps, but after the first time you do it, it&rsquo;s not much - it should look like this:</p>
+<p><img src="/homeworks/hw4_julia_setup.png" alt=""></p>
+<p>You can now run all the code in the <code>NBody</code> package - try <code>names(NBody)</code> to see everything you have now!</p>
+<p>To run tests, use the command <code>include(&quot;test/test_setup.jl&quot;)</code> or the equivalent for <code>test_solve.jl</code>. <code>runtests.jl</code> runs both files together. <code>include</code> does not automatically revise its source, so if you edit the tests (which you shouldn&rsquo;t have to for this assignment) you&rsquo;ll need to run <code>include</code> again.</p>
+<h3 id="code-tasks">Code Tasks</h3>
+<p>Fill in the functions marked <code># YOUR CODE HERE</code> in <code>setup.jl</code> and <code>solve.jl</code>. We&rsquo;ll write the setup and a solver for the N-body problem (calculating the motion of bodies that interact according to an inverse-square law), and compare their accuracy and performance. Specifically,</p>
+<ul>
+<li>complete the function <code>inverse_square_diffeq</code> in <code>src/setup.jl</code>, to calculate interactions between each pair of bodies</li>
+<li>complete the function <code>euler</code> in <code>src/solve.jl</code>, to carry out Euler integration on a differential equation</li>
+</ul>
+<p>After that, follow the instructions in <code>earth_sun.jl</code> to make a plot of the Earth-Sun system interacting gravitationally.</p>
+<p>If you&rsquo;re interested, try adding in a third body, like Jupiter - this isn&rsquo;t required because this assignment&rsquo;s likely already stretching the time budget, but it&rsquo;s a lot of fun to try different initial setups. See &ldquo;@ThreeBodyBot&rdquo; on Twitter! (We may also look at the physics of this more on Homework 5.)</p>
+<h3 id="written-questions">Written Questions</h3>
+<p>Once you&rsquo;re done, open up <code>questions.md</code> in your favorite text editor, and briefly answer the following questions:</p>
+<ul>
+<li>
+<p>As a function of the number of bodies, give an asymptotic (theta) bound on the runtime of <code>inverse_square_diffeq</code>.</p>
+</li>
+<li>
+<p>What was weird about the plot we got in earth_sun.jl?</p>
+</li>
+<li>
+<p>Suggest some ways we could improve this. There&rsquo;s no wrong answers here! We don&rsquo;t need a specific algorithm - just whatever you think about which parts could be made more efficient, or use something we know from physics.</p>
+</li>
+</ul>
+<p>Submit your work by committing and pushing to your Github, and submitting that to Gradescope.</p>
+
+
+  
+
+  
+  <hr>
+  <footer>
+
+  
+    <section>
+  </section>
+
+  
+
+  
+  </footer>
+  
+
+</article> 
+
+
+
+        </div> <!-- /.blog-main -->
+
+        <aside class="col-sm-3 ml-auto blog-sidebar">
+  
+
+  
+
+  
+  <section class="sidebar-module">
+    <h4>Links</h4>
+    <ol class="list-unstyled">
+      
+      <li><a href="https://berkeley.zoom.us/j/94139582667?pwd=anM0aXlpN1l4VzBlNWhoVFQwTUJ5dz09">Lecture and OH Zoom</a></li>
+      
+      <li><a href="https://drive.google.com/drive/folders/1lu0daU6Zw9L30PZIMMvqvOSLe6ZnOmN9?usp=sharing">Lecture Recordings</a></li>
+      
+      <li><a href="https://aditya-sengupta.github.io/PhysCat_DeCal_Syllabus.pdf">Syllabus</a></li>
+      
+    </ol>
+  </section>
+  
+</aside>
+
+
+      </div> <!-- /.row -->
+    </div> <!-- /.container -->
+    
+
+    
+    <footer class="blog-footer">
+      <p dir="auto">
+      
+      Except where otherwise noted, content on this site is licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International license</a>.
+      
+      </p>
+      <p>
+      <a href="#">Back to top</a>
+      </p>
+    </footer>
+    
+
+  </body>
+
+</html>

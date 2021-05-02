@@ -7,9 +7,9 @@ draft: false
 
 The PhysCat DeCal aims to bring students up to speed with the ins and outs of modern scientific computing so that they can jump right into applying their skills in research and in industry.
 
-We will be introducing a broad array of topics, from computer architecture, optimization and acceleration; to modern numerical methods, digital signal processing, and even a little bit of Julia. This class will primarily be taught in Python with a brief intro to Julia, and although Python experience is not required, some programming experience is highly recommended.
+We will be introducing a broad array of topics, from computer architecture, optimization and acceleration; to modern numerical methods, digital signal processing, probabilistic programming, and the Julia programming language. This class will primarily be taught in Python with a brief intro to Julia, and although Python experience is not required, some programming experience is highly recommended.
 
-For registration details click [here](/about).
+Our lecture recordings are now publicly viewable [here](https://www.youtube.com/playlist?list=PLF4gvjw0nvoZjtqbQC8_GSrNQDLYTURZp)!
 
 ### Administration
 
@@ -22,19 +22,18 @@ Homework links will be posted here before the first lecture of the week they are
 {{<table "table table-striped table-bordered">}}
 | Week  	| Topic                                           	| Assignment        	| Primary Facilitator 	|
 |-------	|-------------------------------------------------	|-------------------	|---------------------	|
-| 01/25 	| Overview and Environment Setup & HW 1           	| [HW 1](/posts/hw1/index.html)              	| Aditya              	|
+| 01/25 	| Overview and Environment Setup                	| [HW 1](/posts/hw1/index.html)              	| Aditya              	|
 | 02/01 	| Python Review, Future Concept Demo              	| --                 	| Aled                	|
 | 02/08 	| Computer Architecture                           	| [HW 2](/posts/hw2/index.html) (Due 02/25)              	| Aled                	|
 | 02/17 	| SIMD and Vectorized Computation                 	| --                	| Aled                	|
 | 02/22 	| Threading                                       	| [HW 3](/posts/hw3/index.html) (Due 03/15)             	| Aled                	|
 | 03/01 	| GPUs and High-Performance Computing             	| --                	| Aled                	|
-| 03/08 	| The Julia Programming Language, Code Efficiency 	| HW 4              	| Aditya              	|
-| 03/15 	| Git, Github, Package Management                 	| --                	| Aditya              	|
+| 03/08 	| The Julia Programming Language, Code Efficiency 	| [HW 4](/posts/hw4/index.html) (Due 04/08)             	| Aditya              	|
+| 03/15 	| Asymptotic Analysis, Numerical Methods            | --                	| Aditya              	|
 | 03/22 	| *Spring Break*                                  	|                   	|                     	|
-| 03/29 	| Asymptotic Analysis, Parallel Computing         	| HW 5              	| Aditya              	|
-| 04/05 	| Numerical Methods, Probabilistic Programming    	| --                	| Aditya              	|
-| 04/12 	| Application to Computational Physics            	| Project Proposals 	| Aditya + Aled       	|
-| 04/19 	| Best Practices and Documentation                	| Project           	| Aditya              	|
+| 03/29 	| Applications to Computational Physics         	| [HW 5](/posts/hw5/index.html) (Due 04/20)             	| Aditya              	|
+| 04/05 	| Git, Github, Package Management			    	| --                	| Aditya              	|
+| 04/12 	| Application to Computational Physics            	| Project (Due 05/03)         	| Aditya + Aled       	|
+| 04/19 	| Best Practices and Documentation                	| --                	| Aditya              	|
 | 04/26 	| Advanced Topics: FPGAs and DSP                  	| --                	| Aled                	|
-| 05/03 	| *RRR Week*: Project Presentations               	| --                	| Aditya + Aled       	|
 {{</table>}}

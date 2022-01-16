@@ -27,5 +27,37 @@ Setup Welcome to PhysCat! Like many courses, the first thing you&amp;rsquo;re go
       <description>This homework is due on 25 February 2021 at 11:59PM via Gradescope. Please complete and submit the file physcat_sp21_hw2.ipynb.</description>
     </item>
     
+    <item>
+      <title>Homework 3</title>
+      <link>https://physcat-decal.com/posts/hw3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://physcat-decal.com/posts/hw3/</guid>
+      <description>This homework is due on 15 March 2021 at 11:59PM via Gradescope. Please submit a .zip file containing
+ physcat_sp21_hw3_p1.ipynb physcat_sp21_hw3_p2.ipynb  which you can download below.
+Server Access To complete this homework, you&amp;rsquo;ll need to run both notebooks on the course Jupyter server to make use of our GPU. Directions for accessing the server will be distributed on Discord. Since we have limited compute resources, please don&amp;rsquo;t distribute access credentials or use significantly more resources than the notebooks specify.</description>
+    </item>
+    
+    <item>
+      <title>Homework 4</title>
+      <link>https://physcat-decal.com/posts/hw4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://physcat-decal.com/posts/hw4/</guid>
+      <description>This homework is due on 8 April 2021. Please submit a PDF of your project proposal to Gradescope. Project proposals should be about 1-2 pages in length, and should include the following details:
+ Your name, and the name of your project partner if any A project title A brief description, around 1 paragraph, of what you want to do (e.g. learn a certain package, simulate some effect), why you&amp;rsquo;re interested in it, and optionally how it will prepare you for research work going forward.</description>
+    </item>
+    
+    <item>
+      <title>Homework 5</title>
+      <link>https://physcat-decal.com/posts/hw5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://physcat-decal.com/posts/hw5/</guid>
+      <description>This homework is due on 20 April 2021. Please create a GitHub repository for this homework (as detailed below) and submit to Gradescope via Github.
+Part 1: Setup Time budget: 1.5 hours.
+For this homework, we&amp;rsquo;ll need to install Julia and Git, and make a Github account. Note that we plan to discuss how Git and Github work in more detail in a later lecture; for now, we&amp;rsquo;ll list the commands you should use.</description>
+    </item>
+    
   </channel>
 </rss>
